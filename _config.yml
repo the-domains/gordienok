@@ -2,12 +2,13 @@ name: Maxim Gordienok
 favicon: null
 layout_spectrum: 0.8629938964731991
 typography_spectrum: 0.8017245421651751
+title: Maxim Gordienok Personal
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76103502-1
   facebook: null
   twitter: null
 opengraph:
