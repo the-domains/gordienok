@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Maxim Gordienok]]></title>
+        <description><![CDATA[Maxim Gordienok]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 21:06:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my personal space!]]></title>
+            <description><![CDATA[<article><h1>Welcome to my personal space!</h1><p>Hi! My name is Max and this is my space. You are welcome to read, share or discuss everything you found here. You will find here music, software development (maybe games:)) and lifestyle posts, ideas for future projects and fun posts and videos. You will never find here nude materials.</p></article>]]></description>
+            <link>undefinedhi-my-name-is-max-and-this-is-my-space-you-are-welcome-to/index.html</link>
+            <guid isPermaLink="false">e9fca6d8-5b3b-4949-a425-bae9cb695602</guid>
+            <pubDate>Wed, 06 Apr 2016 21:05:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
